@@ -1,0 +1,968 @@
+17-0027 
+
+
+VIA MESSENGER 
+
+Initiative Coordinator 
+Office ofthe Attorney General 
+1300 "I" Street,  17th Floor 
+Sacramento, CA  95814 
+
+August 31, 2017 
+
+RECEIVED 
+
+SEP  O 1 2017 
+
+INITIATIVE COORDINATOR 
+
+ATTORNEY GENERAL'S OFFICE 
+
+Re: 
+
+The  California Consumer Privacy Act o/2018 
+
+Dear Initiative Coordinator: 
+
+In accordance with the requirements of Elections Code section 9001(a), I request 
+that the Attorney General prepare a circulating title and summary of the chief purpose and points 
+ofthe initiative measure entitled "The California Consumer Privacy Act of 2018."  The text of 
+the measure, a check for $2,000.00, and the certifications required by Elections Code 
+sections 900 I  and 9608 are enclosed. 
+
+Please direct all correspondence and inquiries regarding this measure to: 
+
+James C.  Harrison 
+Kristen M.  Rogers 
+Remcho, Johansen & Purcell, LLP 
+1901  Harrison Street, Suite 1550 
+Oakland, CA  94612 
+Phone:  (510) 346-6200 
+Fax:  (510) 346-6201 
+
+Enclosures 
+(00317424) 
+
+17-0027 
+
+
+THE CALIFORNIA CONSUMER PRIVACY ACT OF 2018 
+
+SEC. 1.  Title. 
+
+This measure shall be known and may be cited as "The California Consumer Privacy Act 
+of2018." 
+
+SEC. 2.  Findings and Declarations. 
+
+The People of the State of California hereby find and declare all  of the following: 
+
+In  1972, California voters amended the California Constitution to include the right of 
+
+A. 
+privacy among the "inalienable" rights of all people.  Voters acted in response to the accelerating 
+encroachment on personal freedom and security caused by increased data collection in 
+contemporary society.  The amendment established a legal and enforceable right of privacy for 
+every Californian.  Fundamental to this right of privacy is the ability of individuals to control the 
+use of their personal infonnation.  As a Californian, you retain your reasonable expectation of 
+privacy even when you share your personal information with a third party. 
+
+Since California voters approved the right of privacy, the California Legislature has 
+
+B. 
+adopted specific mechanisms to safeguard Californians' privacy, including the Online Privacy 
+Protection Act, the Privacy Rights for California Minors in the Digital World Act, and Shine the 
+Light, a California law intended to give Californians the "who, what, where, and when" of how 
+businesses handle consumers'  personal information.  But technology has continued to advance 
+exponentially and business practices have changed dramatically. 
+
+C. 
+Many businesses collect personal information from California consumers using hundreds 
+of tracking and collection devices.  They not only know where you live and how many children 
+you have, but also how fast you drive and your personality, sleep habits, biometric and health 
+information, financial information, current location, and social networks, to name just a few 
+categories.  California law has not kept pace with these developments. 
+
+Businesses drive the market for consumers' personal information, and they profit from 
+
+D. 
+buying and selling your personal information and using it for commercial purposes. 
+
+The proliferation of personal information over which consumers lack control has limited 
+
+E. 
+Californians' ability to properly protect and safeguard their privacy.  Businesses use this personal 
+information for their own purposes, including selling it to,  and sharing it with, other businesses 
+for their commercial purposes without your knowledge, and using it to offer you a different price 
+or service, target you with ads, or to track your location, habits, and preferences for future 
+commercial use.  Often, you may not even know that these records exist and cannot determine 
+who has access to them or to whom they are being sold or with whom they are being shared. 
+
+At the same time, you are in a position of relative dependence on businesses that collect 
+
+F. 
+your information.  It is easy for companies to monitor what you do as they collect ever­
+increasing amounts and categories of data about you.  But it is difficult for you to monitor 
+business operations or prevent companies from  using your personal information for the 
+companies' financial  benefit.  Providing information to a company is not the same as making it 
+
+1 
+
+
+available to the public generally, and you have a reasonable expectation that businesses will 
+respect your privacy. 
+
+G. 
+You should have the right to know what personal information businesses collect about 
+you and your children and what they do with it, including how businesses use that information 
+and who they sell it to. 
+
+You should also be able to control the use of your,  and your children's, personal 
+
+H. 
+information, and be able to stop businesses from selling your information or sharing it for 
+commercial purposes.  Your decision to tell a business to stop selling your personal information 
+or sharing it for commercial purposes should not affect the price or quality of the goods or 
+services you receive.  It is possible for businesses both to provide a high level of service and to 
+respect your privacy. 
+
+SEC. 3.  Purpose and Intent. 
+
+In enacting this Act, it is the purpose and intent of the people of the State of California to further 
+operationalize the constitutional right of privacy by giving consumers an effective way to control 
+their personal information, thereby affording better protection of their own privacy and 
+autonomy, by: 
+
+Giving California consumers the right to know what categories of personal information a 
+
+A. 
+business has collected about them and their children. 
+
+Giving California consumers the right to know what a business has done with that 
+
+B. 
+information, including what information it has sold, or shared for commercial purposes, and to 
+whom it has been sold or shared. 
+
+Requiring a business to disclose to a California consumer ifit sells or shares any of the 
+
+C. 
+consumer's personal information and allowing the consumer to tell the business to stop selling or 
+sharing the consumer's personal information for the business or the buyer's commercial 
+purposes. 
+
+Preventing a business from  denying or changing a service or charging more if a 
+
+D. 
+California consumer refuses to allow the business to sell the consumer's personal information or 
+share it for commercial purposes. 
+
+SEC. 4.  The California Consumer Privacy Act shall be codified by adding Sections 1798.100 
+to  1798.114, inclusive, to the Civil Code. 
+
+SEC. 4.1.  Section 1798.100 is  added to  the Civil Code, to  read: 
+
+1798.100.  Right to Know What Personal Information is Being Collected. 
+
+1798. 100.  (a) A consumer shall have the right to request that a business that has collected 
+personal information about the consumer disclose to the consumer the categories of personal 
+information it has collected about that consumer. 
+
+2 
+
+
+(b) A business that has collected personal information about a consumer shall disclose the 
+information specified in subdivision (a) to the consumer upon receipt of a verifiable request from 
+the consumer. 
+
+SEC. 4.2.  Section 1798.101 is  added to  the Civil Code, to  read: 
+
+1798.101.  Right to Know How Personal Information is Used. 
+
+1798.101.  (a) A consumer shall have the right to request that a business that sells the consumer's 
+personal information, or shares it for commercial purposes, disclose to that consumer the 
+categories of personal information collected about the consumer and the identity of the third 
+parties to whom such personal information was sold,  or shared for commercial purposes, by 
+category or categories of personal information for each third party to whom such personal 
+information was sold, or shared for commercial purposes, and  any unique identifier or other 
+method of identifying the personal information that was sold,  or shared for commercial purposes. 
+
+(b) A business that sells personal information about a consumer, or shares it for commercial 
+purposes, shall disclose the information specified in subdivision (a) to the consumer upon receipt 
+of a verifiable request from the consumer. 
+
+SEC. 4.3.  Section 1798.102 is added to the Civil Code, to  read: 
+
+1798.102.  Right to Say No to Sale of Personal Information. 
+
+1798.102.  (a) A consumer shall have the right, at any time, to direct a business that sells 
+personal information about the consumer, or shares it for commercial purposes, not to sell the 
+consumer's personal information, or share it for commercial purposes. 
+
+(b) A business that sells consumers'  personal information, or shares it for commercial purposes, 
+shall provide notice to consumers that such information may be sold,  or shared for commercial 
+purposes, and that consumers have the right to opt out of the sale of their personal information, 
+or the sharing of it for commercial purposes, including instructions regarding how consumers 
+may opt out of the sale of their personal information, or the sharing of it for commercial 
+purposes. 
+
+(c) A business that has received direction from a consumer not to sell the consumer's personal 
+information, or share it for commercial purposes, shall be prohibited from  selling the consumer's 
+personal information, or sharing it for commercial purposes, after its receipt of the consumer's 
+direction, unless the consumer subsequently provides express authorization for the sale of the 
+consumer's personal information, or the sharing ofit for commercial purposes. 
+
+SEC. 4.4.  Section 1798.103 is added to the Civil Code, to  read: 
+
+1798.103.  Right to Equal Service and Price. 
+
+1798.103.  A business that sells a consumer's personal information, or shares it for commercial 
+purposes, shall be prohibited from discriminating against the consumer based on the consumer's 
+request for information pursuant to sections 1798.100 or 1798.101, or based on the consumer's 
+
+3 
+
+decision to direct the business not to sell the consumer's personal information, or share it for 
+commercial purposes, pursuant to section 1798.102, including but not limited to, by:  (a) denying 
+goods or services to the consumer; (b) charging different prices or rates, including through the 
+use of discounts or other benefits or imposing penalties, for such goods or services; (c) providing 
+a different level or quality of such goods or services; or ( d) suggesting that the consumer will 
+receive a different level or quality of such goods or services if the consumer exercises the 
+consumer's rights under this Act. 
+
+SEC. 4.5.  Section 1798.104 is  added to  the Civil Code, to read: 
+
+1798.104.  Compliance with Disclosure Requirements. 
+
+1798.104.  (a) In order to comply with sections 1798.100 and 1798.101, a business shall: 
+
+(1) Make two or more designated methods for submitting requests available to consumers, 
+including, at a minimum, a toll-free telephone number and a website address, if the business 
+maintains a website. 
+
+(2) Disclose the required information to a consumer free of charge within 30 days of receiving a 
+verifiable request from the consumer.  The disclosure shall cover the twelve-month period 
+preceding the business's receipt of the verifiable request. 
+
+(3) For purposes of section 1798.100, identify all  categories of personal information collected 
+about a consumer by reference to the enumerated category or categories in subdivision (c) that 
+most closely describe the personal information and any unique identifier or other method of 
+identifying the personal information collected. 
+
+(4) For purposes of section 1798.101:  (A) identify by category or categories the personal 
+information of a consumer which the business sold, or shared for commercial purposes, by 
+reference to the enumerated category or categories in subdivision (c) that most closely describe 
+the personal information, and any unique identifier or other method of identifying the personal 
+information that the business sold, or shared for commercial purposes, and (B) provide accurate 
+names and contact information for the third parties to whom the consumer's personal 
+information was sold, or shared for commercial purposes. 
+
+(5) Include a description of a consumer's rights pursuant to sections 1798.100 and 1798.101, and 
+one or more designated methods for submitting requests in:  (A) its online privacy policy or 
+policies if the business has an online privacy policy or policies and (B) any California-specific 
+description of consumers'  privacy rights. 
+
+(6) Ensure that all  individuals responsible for handling consumer inquiries about the business's 
+privacy practices or the business's compliance with this Act are informed of all  requirements in 
+sections 1798.100, 1798.101, and this section, and how to direct consumers to exercise their 
+rights under those sections. 
+
+(7) Use any personal infonnation collected from the consumer in connection with the business's 
+verification of the consumer's request solely for the purposes of verification. 
+
+4 
+
+
+(b) A business is not obligated to provide the information required by sections 1798. 100 
+and 1798. 101  to the same consumer more than once in a 12-month period, provided that the 
+collection and use of that consumer's information has not changed since the last disclosure. 
+
+(c) The categories of personal information required to be disclosed pursuant to sections 1798. 100 
+and 1798.101  are all of the following: 
+
+(1) 	 All  categories of personal information relating to characteristics of protected 
+
+classifications under California or federal  law, with specific reference to the category 
+of information that has been collected, such as race, ethnicity, or gender; 
+
+(2) 	 All categories of personal information enumerated in the Shine the Light Act, 
+
+California Civil Code sections 1798.83, et.  seq., including reference to the specific 
+individual category or categories collected,  such as age or date of birth, names of 
+children, or number of children; 
+
+(3) 	 Unique identifiers; 
+(4) 	 Any other identifier intended or able to be associated with a particular individual or 
+
+device, including, but not limited to, a social security number, driver's license number, 
+identifier assigned by a business or third party, or passport number; 
+
+(5) 	 Commercial information, including records of property, products or services provided, 
+
+obtained, or considered, or other purchasing or consuming histories or tendencies; 
+
+(6) 	 Biometric data; 
+(7) 	
+
+Internet or other electronic network activity information including browsing history, 
+search history,  and information regarding a consumer's interaction with a website, 
+application, or advertisement; 
+
+Photographs or images, including video images; 
+
+(8) 	 Geolocation data; 
+(9) 	
+(10) 	 Psychometric information; 
+(11) 	 Professional or employment-related information; 
+(12) 	 Content, including text, photographs, audio or video recordings, or other material 
+
+generated by or provided by the consumer; 
+
+(13) 	 Any of the categories of information set forth in this subdivision as they pertain to the 
+
+minor children of the consumer, including reference to the specific category or 
+categories; 
+Inferences drawn from  any of the information identified above, including reference to 
+the specific category or categories from  which the inference was drawn;  and 
+
+(14) 	
+
+(15) 	 A category of personal information included within the scope of paragraph (15) of 
+subdivision (I) of section 1798. 106, including a description of the type of personal 
+information. 
+
+SEC. 4.6.  Section 1798.105 is  added to the Civil Code, to  read: 
+
+1798.105.  Compliance with Opt-Out Requirements. 
+
+1798.105.  (a) A business that is required to comply with sections 1798. 102 and  1798.103 shall: 
+
+(1) Provide a clear and conspicuous link on the business's homepage titled solely "Do Not Sell 
+My Personal Information, Or Share It For Commercial Purposes."  The link shall lead to a 
+standalone screen, window, or webpage, which shall include only the following clear and 
+
+5 
+
+conspicuous text:  "We sell consumers' personal information,  or share itfor commercial 
+purposes.  California law allows you to tell us not to sell your personal information,  or share it 
+for commercial purposes,  and we are required to offer the same goods or sen,ices at the same 
+price,  regardless ofwhether or not you permit us to sell your personal information,  or share it 
+for commercial purposes.  Ifyou check the  box below, we will not sell your personal information, 
+or share itfor commercial purposes. "  This text shall be followed by a box that a consumer may 
+check that reads:  "Do not sell my personal information,  or share it for commercial purposes", 
+and that includes a text entry field for the consumer's full name and zip code.  Other than the 
+business's name, logo, and the information required in this paragraph, no other writing or 
+information shall be allowed on the separate or standalone screen, window or webpage.  A 
+business shall not require a consumer to log into a website or application, or create an account, in 
+order to direct the business not to sell the consumer's personal information. 
+
+(2) For in-person interactions, post a clear and conspicuous physical notice at the entrance to 
+each location owned, leased, or operated by the business in California at which the business 
+interacts with consumers that reads  "[Name of business]  sells consumers' personal information, 
+or shares it for commercial purposes.  California law allows you to tell us not to sell your 
+personal information,  or share itfor commercial purposes, and we are required to offer the same 
+goods or services at the same price,  regardless ofwhether or not you permit us to sell your 
+personal information,  or share itfor commercial purposes.  Ifyou would like to tell us not to sell 
+your personal information,  or share itfor commercial purposes,  visit [URL] or call [toll-free 
+number}."  The notice required by this paragraph shall be reasonably calculated, considering the 
+alternative methods available under the circumstances, to make the notice available to the 
+consumer during the non-electronic interaction.  Upon receiving a request from the consumer, 
+the business shall provide a separate paper form or link to a dedicated webpage with only the 
+following clear and conspicuous text:  "We sell consumers' personal information,  or share it for 
+commercial purposes.  California law allows you to tell us not to sell your personal information, 
+or share itfor commercial purposes,  and we are required to offer the same goods or services at 
+the same price, regardless ofwhether or not you permit us to sell your personal information, or 
+share itfor commercial purposes.  Ifyou check the  box below, we will not sell your personal 
+information, or share itfor commercial purposes. "  This text shall be followed by a box that a 
+consumer may check that reads:  "Do not sell my personal information,  or share it for 
+commercial purposes",  and that includes a text entry field for the consumer's full  name and zip 
+code.  Other than the business's name, logo, and the information required in this paragraph, no 
+other writing or information shall be allowed on the paper or webpage.  A business shall not 
+require a consumer to log into a website or application, or create an account, in order to direct the 
+business not to sell the consumer's personal information. 
+
+(3) Include a description of a consumer's rights pursuant sections 1798.l 02 and  1798.103, along 
+with a separate link to the "Do Not Sell My Personal Information Or Share It For Commercial 
+Purposes"  standalone screen, window, or webpage in:  (A) its online privacy policy or policies if 
+the business has an online privacy policy or policies and (B) any California-specific description 
+of consumers' privacy rights. 
+
+(4) Ensure that all  individuals responsible for handling consumer inquiries about the business's 
+
+privacy practices or the business's compliance with this Act are informed of all  requirements in 
+
+sections 1798. l 02,  1798. 103, and this section, and how to direct consumers to exercise their 
+
+rights under those sections. 
+
+
+6 
+
+(5) For consumers who exercise their right to opt out of the sale of their personal information, or 
+the sharing ofit for commercial purposes, associate the name and zip code provided by the 
+consumer, any unique identifiers associated with the consumer as part of the submission of the 
+consumer's opt-out request, and any data or unique identifiers that the business would ordinarily, 
+or could reasonably, have access to,  or would typically collect, when interacting with the 
+consumer, to any personal information previously collected by the business that the business 
+reasonably believes or probabilistically identifies to be that of the same consumer.  The business 
+shall be prohibited from  selling all such personal information of the consumer, or sharing it for 
+commercial purposes. 
+
+(6) Provide a clear and conspicuous link on the business's homepage or a designated method of 
+submitting requests available upon request to allow a consumer who has opted out of the sale of 
+the consumer's personal infonnation, or the sharing of it for commercial purposes, to authorize 
+the business to sell the consumer's personal information, or share it for commercial purposes, 
+titled solely, "Allow [business name] To Sell My Personal Information, Or Share It For 
+Commercial Purposes."  The link shall lead to a standalone screen, window, or webpage, or 
+paper form in the case of a business that provides a designated address, that shall be titled 
+"[Name ofBusiness] may sell my personal information,  or share it for commercial purposes," 
+and that shall include only the following clear and conspicuous text:  "You have told us not to 
+sell your personal information,  or share it for commercial purposes.  California law requires us 
+to offer you the same goods or services at the same price, regardless ofwhether or notyou allow 
+us to sell your personal information, or share it.for commercial purposes.  Ifyou would now like 
+to permit us to sell your personal iriformation,  or share itfor commercial purposes, please check 
+the box below. "  This text shall be followed by a box that a consumer may check that reads: 
+"[Name ofBusiness] may sell my personal information,  or share it for commercial purposes", 
+and that includes a text entry field for the consumer's full  name and zip code.  Other than the 
+business's name, logo, and the information required in this paragraph, no other writing or 
+information shall be allowed on the standalone screen, window, webpage, or paper form.  A 
+business may not request or otherwise direct the consumer to submit a request for change in 
+status, except as  provided in this paragraph. 
+
+(b) A consumer, or a consumer on behalf of the consumer's minor child, may opt out of the sale 
+of the consumer's personal information, or the sharing ofit for commercial purposes, by 
+providing the consumer's full  name and zip code to the business through any means, and a 
+consumer may authorize another person to opt out on the consumer's behalf, and a business shall 
+comply with an opt-out request received, through any means, from a person authorized by the 
+consumer to act on the consumer's behalf. 
+
+SEC. 4.7.  Section 1798.106 is added to the Civil Code, to  read: 
+
+1798.106.  Definitions. 
+
+1798.106.  For purposes of Sections 1798.100 to  1798.114, inclusive, the following definitions 
+shall apply: 
+
+(a) "Biometric data" means an individual's physiological, biological, or behavioral 
+characteristics, including but not limited to:  retina or iris scan, fingerprint, hand scan, face scan, 
+
+7 
+
+
+keystroke patterns or rhythms, gait patterns or rhythms, voiceprint, sleep, health, or exercise 
+data. 
+
+(b) "Business" means: 
+
+(1) a sole-proprietorship, partnership, limited-liability company, corporation, association, or 
+other legal entity that is organized or operated for the profit or financial benefit of its 
+shareholders or other owners, that collects consumers'  personal information, that does business 
+in the State of California, and that has either one or more of the following:  (a) 50 or more 
+employees; (b) annual gross sales in excess of$2,000,000; (c) assets in excess of$3,000,000; 
+(d) ownership of,  or the right to use, records of personal information pertaining to 20,000 or 
+more consumers; or (e) a primary business purpose of buying and selling consumers'  personal 
+information. 
+
+(2) any entity that controls or is controlled by a business, as  defined in paragraph (1) of this 
+subdivision, and that shares common branding with the business.  "Control" means ownership of, 
+or the power to vote, more than 50 percent of the outstanding shares of any class of voting 
+security of a business; control in any manner over the election of a majority of the directors, or of 
+individuals exercising similar functions;  or the power to exercise, directly or indirectly, a 
+controlling influence over the management or policies of a company.  "Common branding" 
+means a shared name,  servicemark, or trademark. 
+
+(c) "Clear and conspicuous" means (1) in a color that contrasts with the background color or is 
+otherwise distinguishable; (2) written in larger type than the surrounding text that calls attention 
+to the language; and (3) displayed so that a reasonable viewer would be able to notice, read,  and 
+understand it.  In the case of an audio disclosure, "clear and conspicuous" means in a volume and 
+cadence sufficient to be readily audible and understandable. 
+
+(d) "Commercial purposes" means to advance a person's commercial interests, such as by 
+inducing a person to buy, rent, lease, join, subscribe to, provide, or exchange products, goods, 
+property, information, or services, or enabling or effecting, directly or indirectly, a commercial 
+transaction.  "Commercial purposes" do not include for the purpose of engaging in non­
+commercial speech. 
+
+(e) "Collected" or "collection" means gathering, obtaining, storing, using, monitoring, inferring, 
+or accessing any personal information pertaining to a consumer by any means, regardless of the 
+length of time the information is retained and whether or not the interaction with the consumer 
+involved the exchange of consideration, including but not limited to:  (1) requesting, prompting, 
+or encouraging a consumer to submit personal information to the business;  (2) tracking a 
+consumer's activity online; (3) tracking a consumer through any means of geolocation; 
+(4) accessing or obtaining a consumer's personal information from  a person other than the 
+consumer; or (5) obtaining a consumer's personal information through a commercial transaction, 
+advertising, marketing, or any other interaction with the consumer. 
+
+(f) "Consumer" means a natural person who is a California resident, as defined on September 1, 
+2017, in the California Code of Regulations, title 18,  section 17014, however identified, 
+including by any unique identifier, where such identifier is used to collect or categorize personal 
+
+8 
+
+
+information about the resident, or by a computer, device,  or software program or application 
+owned or primarily used by that resident or that is otherwise associated with that resident. 
+
+(g) "Designated methods for submitting requests" means a mailing address, e-mail address, Web 
+page, Web portal, toll-free telephone number, or other applicable contact infonnation, whereby 
+consumers may submit a request or direction under this Act. 
+
+(h) "Homepage" means the introductory page of a website and any webpage where personal 
+information is collected.  In the case of an  online service, such as a mobile application, 
+homepage means the application's platform page,  a link within the application, such as from the 
+application configuration, "About," "Information," or settings page, and any other location that 
+allows consumers to review the notice required by paragraph (1) of subdivision (a) of 
+section  1798.105 before downloading the application. 
+
+(i) "Infer" or "inference" means the derivation of information, data, assumptions, or conclusions 
+from facts,  evidence, or another source of information or data. 
+
+(j) "In-person interaction" means a contact, transaction,  sale, purchase,  service, or 
+communication that occurs or is conducted at a location owned, leased, or operated by the 
+business in California at which the business interacts with the consumer.  "In-person interaction" 
+does not include any interaction conducted exclusively online. 
+
+(k) "Person" means an individual, proprietorship, firm,  partnership, joint venture, syndicate, 
+business trust,  company,  corporation, limited liability company, association, committee, and any 
+other organization or group of persons acting in concert. 
+
+(I) "Personal information" means information or data possessed, used,  made available to,  or 
+accessed by the business, that the business uses or could reasonably use, directly, indirectly, or 
+probabilistically, including through the use of any  algorithm, method, or series of steps involving 
+different businesses, technologies, or fonnulas, to identify, relate to,  or describe, alone or in 
+combination with other information, a consumer.  Personal information includes any information 
+described in the following categories: 
+
+(l) 	 Characteristics of protected classifications under California or federal law; 
+(2) 	 All  categories of personal infonnation enumerated in the Shine the Light Act, 
+
+
+California Civil Code sections 1798.83, et.  seq.; 
+
+
+(3) 	 Unique identifiers; 
+(4) 	 Any other identifier intended or able to be associated with a particular individual or 
+
+device, including, but not limited to, a social security number, driver's license number, 
+identifier assigned by a business or third party, or passport number; 
+
+(5) 	 Commercial information, including records of property, products or services provided, 
+
+(6) 	
+(7) 	
+
+obtained, or considered, or other purchasing or consuming histories or tendencies; 
+Biometric data; 
+Internet or other electronic network activity information including browsing history, 
+search history, and information regarding a consumer's interaction with a website, 
+application, or advertisement; 
+
+(8) 	 Geolocation data; 
+(9) 	
+
+Photographs or images, including video images; 
+
+9 
+
+(10) 	 Psychometric information; 
+(11) 	 Professional or employment-related information; 
+(12) 	 Content, including text, photographs, audio or video recordings, or other material 
+
+generated by or provided by the consumer; 
+
+(13) 	 Any of the categories of information set forth in this subdivision as they pertain to the 
+
+minor children of the consumer; 
+Inferences drawn from  any of the information identified above; and 
+
+(14) 	
+(15) 	 Any other information or data not enumerated in paragraphs (1) through (14) that is 
+
+used to identify, or is associated with, a consumer. 
+
+"Personal information" does not include infonnation that is publicly available. 
+
+(m) "Probabilistic identifier," or "probabilistically ... identify," "probabilistically identified," or 
+"identify ... probabilistically," means the identification of a consumer to a degree of certainty of 
+more probable than not based on some or all  of the categories enumerated in subdivision(!). 
+
+(n) "Psychometric information" means information derived or created from  the use or application 
+of psychometric theory or psychometrics, whereby through the use of any method, model, tool, 
+or formula,  observable phenomena, such as  actions or events, are connected, measured, assessed, 
+or related to a consumer's attributes, including, but not limited to, psychological trends, 
+preferences, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. 
+
+(o) "Publicly available" means information that is lawfully made available from federal,  state, or 
+local government records or information that the consumer has voluntarily made publicly 
+available without any restriction on who can access such information.  "Publicly available" does 
+not mean biometric information collected by a business about a consumer without the 
+consumer's knowledge. 
+
+(p) "Sell," "selling," "sale," or "sold," means:  (1) the selling, renting, release, disclosure, use, 
+accessing, disseminating, making available, transferring, or otherwise communicating orally, in 
+writing, or by electronic or other means, a consumer's personal information by the business to a 
+third party, for economic consideration or for other commercial purposes of the business; 
+(2) permitting any third party, for economic consideration or for other commercial purposes of 
+the business, to monitor, obtain, access,  or use the activity or history of any consumer's 
+interactions with the business; and (3) permitting any third party, for economic consideration or 
+for other commercial purposes of the business, to place any tracking or identifying device such 
+as  a cookie, beacon, pixel, or other technology that allows a consumer's personal information to 
+be monitored, obtained, accessed, or used. 
+
+(q) "Service" or "services" means work, labor, and services, including services furnished in 
+connection with the sale or repair of goods. 
+
+(r) "Share," "shares," "shared," or "sharing" means providing a consumer's personal 
+information, whether for consideration or not, to a third party. 
+
+(s) "Third party" means any person who is not: 
+
+(1) 
+
+The business that collects personal information from  consumers under this Act; or 
+
+10 
+
+(2) 	 A person hired or otherwise engaged or used by the business pursuant to a written 
+
+contract authorizing use of the personal information to perform services on behalf of 
+the business, including maintaining or servicing accounts, providing customer service, 
+processing or fulfilling orders and transactions, verifying customer information, 
+processing payments, providing financing, or similar services, but only if:  (A) the 
+contract prohibits the person from using the personal information for any reason other 
+than performing the specified service(s) on behalf of the business and from  selling any 
+such personal information; (B) the contract requires that the personal information be 
+deleted or destroyed by the person as  soon as the personal information is no longer 
+necessary to fulfill the services specified in the contract or comply with other legal 
+obligations; and (C) the business effectively enforces these prohibitions. 
+
+(t) "Unique identifiers" means a device or browser identifier; Internet Protocol address/es; 
+computer or phone operating system information; phone network information; device hardware 
+or software information; cookies, beacons, pixel tags, mobile ad identifiers, or similar 
+technology;  customer number, unique pseudonym, or user alias;  application information; 
+telephone information including telephone numbers, forwarding numbers, time, date, type and 
+duration of phone calls;  SMS information; device event information such as crashes, system 
+activity, hardware settings, browser type, browser language; date, time and nature of search 
+requests and referral URL or HTTP referrer; or similar identification methods;  or some 
+combination thereof, or other forms  of persistent identifiers that can be used to identify a device 
+or consumer either directly, indirectly, or probabilistically. 
+
+(u) "Verifiable request" means a request that:  (!) is made by a consumer, by a consumer on 
+behalf of the consumer's minor child, or by a person authorized by the consumer to act on the 
+consumer's behalf; and (2) the business, taking into consideration available technology and using 
+reasonable efforts, has probabilistically identified to be the consumer about whom the business 
+has collected personal information. 
+
+SEC. 4.8.  Section 1798.107 is added to  the Civil Code, to  read: 
+
+1798.107.  Exemptions. 
+
+1798.107.  (a) The obligations imposed on businesses by sections 1798.100 through  1798.105 
+shall not restrict a business's ability to: 
+
+(1) comply with federal laws; 
+
+(2) comply with a civil, criminal, or regulatory investigation or subpoena or summons by federal, 
+state, or local authorities; or 
+
+(3) cooperate with law enforcement agencies concerning conduct or activity that the business 
+reasonably believes may violate federal,  state, or local law. 
+
+(b) The obligations imposed on businesses by sections 1798.100 through 1798.105 shall not 
+apply where compliance by the business with the Act would violate an evidentiary privilege 
+under California law or where the business provides the personal information to a person covered 
+by an evidentiary privilege under California law. 
+11 
+
+(c) This Act shall  not apply to protected health information that is collected by a covered entity 
+governed by the medical privacy and security rules issued by the Federal Department of Health 
+and Human Services, Parts 160 and  164 of Title 45  of the Code of Federal Regulations, 
+established pursuant to the Health Insurance Portability and Availability Act of 1996 (HIPAA). 
+For purposes of this subdivision, the definitions of"protected health information" and "covered 
+entity" from the privacy rule shall apply. 
+
+(d) This Act shall not apply to the sale of personal information to or from  a consumer reporting 
+agency if that information is to be reported in, or used to generate, a consumer report as defined 
+by subdivision (d) of Section 168l(a) of Title 15 of the United States Code,  and use of that 
+information is limited by the federal Fair Credit Reporting Act,  15 U.S.C.  § 1681, et.  seq. 
+
+SEC. 4.9.  Section 1798.108 is  added to  the Civil Code, to  read: 
+
+1798.108.  Enforcement By Consumers Who Have Suffered An Injury In Fact. 
+
+1798.108.  (a) A consumer who has suffered a violation of this Act may bring an action for 
+statutory damages.  For purposes of Business and Professions Code section 17204 and any other 
+applicable law,  a violation of this Act shall be deemed to constitute an injury in fact to the 
+consumer who has suffered the violation, and the consumer need not suffer a loss of money or 
+property as a result of the violation in  order to bring an action for a violation of this Act. 
+
+(b)(1) Any consumer who suffers an injury in fact,  as described in subdivision (a) of this section, 
+shall recover statutory damages in the amount of one thousand dollars ($1,000) or actual 
+damages, whichever is greater, for each violation from the business or person responsible for the 
+violation, except that in the case of a knowing and willful violation by a business or person, an 
+individual shall recover statutory damages of not less than one thousand dollars ($1,000) and not 
+more than three thousand dollars ($3,000), or actual  damages, whichever is greater, for each 
+violation from the business or person responsible for the violation. 
+
+(2) In assessing the amount of statutory damages, the court shall consider any one or more of the 
+relevant circumstances presented by any of the parties to the case, including, but not limited to, 
+the following:  the nature and seriousness of the misconduct, the number of violations, the 
+persistence of the misconduct, the length of time over which the misconduct occurred, the 
+willfulness of the defendant's misconduct,  and the defendant's assets, liabilities, and net worth. 
+
+(c) The remedies provided by this section are cumulative to each other and to the remedies or 
+penalties available under all other laws of this State. 
+
+SEC. 4.10.  Section 1798.109 is  added to the Civil Code, to read: 
+
+1798.109.  Enforcement by Public Entities. 
+
+1798.109.  (a) Any business or person that violates this Act shall be liable for a civil penalty as 
+provided in section 17206 of the Business and Professions Code in a civil action brought in the 
+name of the people of the State of California by the Attorney General, by any district attorney, 
+by any county counsel authorized by agreement with the district attorney in actions involving 
+violation of a county ordinance, by any city attorney of a city having a population in excess 
+
+12 
+
+of 750,000, by any city attorney of any city and county, or, with the consent of the district 
+attorney, by a city prosecutor in any city having a full-time city prosecutor, in any court of 
+competent jurisdiction. 
+
+(b) Notwithstanding section 17206 of the Business and Professions Code, any or person business 
+that intentionally violates this Act may be liable for a civil penalty ofup to $7,500 for each 
+violation. 
+
+(c) Notwithstanding section 17206 of the Business and Professions Code, any civil penalty 
+assessed pursuant to section 17206 for a violation of this Act shall be awarded as follows: 
+
+(1) 20 percent to the Consumer Privacy Fund, created within the General Fund pursuant to 
+subdivision (a) of section  1798.110, with the intent to fully offset any costs incurred by the state 
+courts and the Attorney General in connection with this Act. 
+
+(2) 80  percent to the jurisdiction on whose behalf the action leading to the civil penalty was 
+brought. 
+
+(d) The Legislature shall  adjust the percentages specified in subdivision (c) of this section and in 
+subdivision (b) of section 1798.111, as necessary to ensure that any civil penalties assessed for a 
+violation of this Act fully  offset any costs incurred by the state courts and the Attorney General 
+in connection with this Act, including a sufficient amount to cover any deficit from  a prior fiscal 
+year.  The Legislature shall not direct a greater percentage of assessed civil penalties to the 
+Consumer Privacy Fund than reasonably necessary to fully offset any costs incurred by the state 
+courts and the Attorney General in connection with this Act. 
+
+SEC. 4.11.  Section  1798.110 is  added to the Civil Code, to read: 
+
+1798.110.  Consumer Right To Privacy Fund. 
+
+1798.110.  (a) A special account to be known as the "Consumer Privacy Fund" is hereby created 
+within the General Fund in the State Treasury, and,  notwithstanding Government Code 
+section 13340, is continuously appropriated without regard for fiscal year to offset any costs 
+incurred by the state courts in connection with actions brought to enforce this Act and any costs 
+incurred by the Attorney General in carrying out the Attorney General's duties under this Act. 
+
+(b) Funds transferred to the Consumer Privacy Fund shall be used exclusively to offset any costs 
+incurred by the state courts and the Attorney General in connection with this Act.  Such funds 
+shall not be subject to appropriation or transfer by the Legislature for any other purpose, unless 
+the Director of Finance determines that the funds  are in excess of the funding needed to fully 
+offset the costs incurred by the state courts and the Attorney General in connection with this Act, 
+in which case the Legislature may appropriate excess funds for other purposes. 
+
+13 
+
+
+SEC. 4.12.  Section 1798.111 is  added to the Civil Code, to read: 
+
+1798.111.  Enforcement by Interested Person on Behalf of Pnblic. 
+
+(a) Any person may file a civil action for civil penalties pursuant to section 1798.109, if prior to 
+filing such action, the person files with the Attorney General a written request for the Attorney 
+General to commence the action.  The request shall include a statement of the grounds for 
+believing a cause of action exists. 
+
+(1) If the Attorney General files  suit within 90 days from  receipt of the written request to 
+commence the action, no other action may be brought unless the action brought by the Attorney 
+General is dismissed without prejudice. 
+
+(2) If the Attorney General does not file suit within 90 days from receipt of the written request to 
+commence the action, the person requesting the action may proceed to file a civil action. 
+
+(3) The time period within which a civil action shall be commenced shall be tolled from the date 
+of receipt by the Attorney General of the written request to either the date that the civil action is 
+dismissed without prejudice, or for  150 days, whichever is later, but only for a civil  action 
+brought by the person who requested the Attorney General to commence the action. 
+
+(b) Notwithstanding subdivision (c) of section 1798.109, if a judgment is entered against the 
+defendant or defendants in an action brought by a person pursuant to this section, that person 
+shall receive seventy percent of the amount recovered and thirty percent shall be deposited in the 
+Consumer Privacy Fund within the General Fund. 
+
+SEC. 4.13.  Section  1798.112 is added to  the Civil Code, to read: 
+
+1798.112.  Construction. 
+
+1798.112.  This Act is intended to operationalize the constitutional right of privacy and to 
+supplement existing laws relating to consumers' personal information, including but not limited 
+to the California Internet Privacy Act (chapter 22 of Division 8 of the Business and Professions 
+Code, commencing with section 22575) and the California Shine the Light Act (Title 1.81  of 
+Part 4 of Division 3 of the Civil Code, commencing with section 1798.80).  The provisions of 
+this Act are not limited to information collected electronically or over the Internet, but apply to 
+the collection and sale, or sharing for commercial purposes, of all  personal information collected 
+by a business from consumers.  Wherever possible, existing law relating to consumers' personal 
+information should be construed to harmonize with the provisions of this Act, but in the event of 
+a conflict between existing law and the provisions of this Act, the provisions of the law that 
+afford the greatest protection for the right of privacy shall control. 
+
+SEC. 4.14.  Section 1798.113 is  added to  the Civil Code, to read: 
+
+1798.113.  Imposition of Additional Privacy Safeguards. 
+
+1798.113.  Nothing in this Act shall  prevent a city,  county, city and county, municipality, or local 
+agency from  safeguarding the constitutional right of privacy by imposing additional 
+
+14 
+
+requirements regarding the collection and sale, or sharing for commercial purposes, of 
+consumers'  personal information by businesses provided that the requirement does not prevent a 
+person from  complying with this Act. 
+
+SEC. 4.15.  Section 1798.114 is added to the Civil Code, to read: 
+
+1798.114.  Regulations. 
+
+1798.114.  (a) The Attorney General shall adopt regulations to further the purposes of this Act, 
+including but not limited to: 
+
+(1) Adding additional categories to those enumerated in subdivision (1) of section 1 798.106 and 
+subdivision (c) of section 1798.104.  Upon receipt of a request made by a California city attorney 
+or district attorney to add a new category or categories, the Attorney General shall promulgate a 
+regulation to add such category or categories unless the Attorney General concludes, based on 
+factual or legal findings,  that there is a compelling reason not to add the category or categories. 
+The Attorney General may also add additional categories to those enumerated in subdivision (I) 
+of section  1798.106 and subdivision (c) of section 1798.104 in response to a petition filed 
+pursuant to section 11340.6 of the Government Code; 
+
+(2) Adding additional items to the definition of "unique identifiers" to address changes in 
+technology; 
+
+(3) Establishing any exceptions necessary to comply with state and federal law; 
+
+(4) Establishing rules and procedures pursuant to which a business complies with the 
+requirements in subdivision (b) of section 1798.105 and the notice requirement in paragraph (2) 
+of subdivision (a) of section 1798.105; 
+
+(5) Adjusting the monetary thresholds in subparagraphs (b) and ( c) of paragraph (1) of 
+subdivision (b) of section  1798.106 in January  of every odd-numbered year to reflect any 
+increase in the Consumer Price Index; and 
+
+(6) Establishing rules, procedures, and any exceptions necessary to ensure that the notices and 
+information that businesses are required to provide pursuant to this Act are accessible to 
+consumers with disabilities, and are available in the language primarily used to interact with the 
+consumer. 
+
+(b) The Attorney General shall be precluded from  adopting regulations that limit or reduce the 
+number or scope of categories of personal information enumerated in subdivision ( c) of 
+section 1798.104 and subdivision (1)  of section 1798.106, or that limit or reduce the number or 
+scope of categories added pursuant to paragraph (1) of subdivision (a), except as necessary to 
+comply with paragraph (3) of subdivision (a).  The Attorney General shall also be precluded 
+from reducing the scope of the definition of "unique identifiers." 
+
+(c) The Attorney General shall adopt any regulations the Attorney General deems necessary to 
+
+implement this measure within six months of the date of the election at which it is adopted. 
+
+Notwithstanding the California Administrative Procedure Act (APA),  and in order to facilitate 
+
+
+15 
+
+the implementation of this Act, the Attorney General may adopt interim regulations without 
+compliance with the procedures set forth in the APA.  The interim regulations shall remain in 
+effect for 270 days unless earlier superseded by regulations adopted pursuant to the APA. 
+
+SEC. 5.  Amendment. 
+
+This Act shall be broadly construed to accomplish its purposes.  The provisions of this Act may 
+not be amended before the measure is approved by the voters.  The provisions of this Act may be 
+amended so long as such amendments are consistent with and further the intent of this Act to 
+protect the right of Californians to control the use of their personal information by a statute that 
+is passed by a two-thirds vote of the members of each house of the Legislature and signed by the 
+Governor.  In addition, the Legislature may amend subdivision (c) of section  1798.109 and 
+subdivision (b) of section 1798.111, as specified in subdivision ( d) of section  1798. l 09, by a 
+majority vote of the members of each house of the Legislature and signed by the Governor. 
+
+SEC. 6.  Severability. 
+
+If any provision of this measure, or part of this measure, or the application of any provision or 
+part to any person or circumstances, is for any reason held to be invalid, the remaining 
+provisions, or applications of provisions, shall not be affected, but shall remain in full force and 
+effect, and to this end the provisions of this measure are severable.  If a court were to find in a 
+final,  unreviewable judgment that the exclusion of one or more entities or activities from the 
+applicability of the Act renders the Act unconstitutional, those exceptions should be severed and 
+the Act should be made applicable to the entities or activities formerly exempt from the Act.  It is 
+the intent of the voters that this chapter would have been enacted regardless of whether an 
+invalid provision had been included or an invalid application had been made. 
+
+SEC. 7.  Conflicting Initiatives. 
+
+(a) In the event that this measure and another measure addressing the privacy of personal 
+information shall appear on the same statewide ballot, the provisions of the other measure or 
+measures shall be deemed to be in conflict with this measure.  In the event that this measure 
+receives a greater number of affirmative votes than a measure deemed to be in conflict with it, 
+the provisions of this measure shall prevail in their entirety, and the other measure or measures 
+shall be null  and void. 
+
+(b) If this measure is approved by the voters but superseded by law by any other conflicting 
+measure approved by voters at the same election, and the conflicting ballot measure is later held 
+invalid, this measure shall be self-executing and given full force and effect. 
+
+SEC. 8.  Standing. 
+
+Notwithstanding any other provision of law, if the State, government agency, or any of its 
+officials fail to defend the constitutionality of this Act, following its approval by the voters, any 
+other government agency, the proponent, or in his or her absence, any citizen of this State shall 
+have the authority to intervene in any court action challenging the constitutionality of this Act for 
+the purpose of defending its constitutionality, whether such action is in trial  court, on appeal, or 
+on discretionary review by the Supreme Court of California and/or the Supreme Court of the 
+
+16 
+
+United States.  The reasonable fees and costs of defending the action shall be a charge on funds 
+appropriated to the California Department of Justice, which shall be satisfied promptly. 
+
+SEC. 9.  Anti-Avoidance Provision. 
+
+If a series of steps or transactions were component parts of a single transaction intended from the 
+beginning to be taken for purposes of avoiding the reach of this Act, a court may disregard the 
+intermediate steps or transactions for purposes of effectuating the purposes of this Act. 
+
+SEC. 10.  Non-Waiver. 
+
+Any provision of a contract or agreement of any kind that purports to waive or limit in any way a 
+consumer's rights under this Act shall be deemed contrary to public policy and shall be void and 
+unenforceable.  This section shall not prevent a consumer from:  declining to request information 
+from a business; declining to opt out of a business's sale of the consumer's personal information, 
+or its sharing of that information for commercial purposes; or authorizing a business to sell the 
+consumer's personal information, or sharing it for commercial purposes, after previously opting 
+out. 
+
+SEC. 11.  Liberal Construction. 
+
+This Act shall be liberally construed to effectuate its purposes. 
+
+SEC. 12.  Savings Clause. 
+
+This Act is intended to supplement federal  law, where permissible, but shall not apply where 
+such application is preempted by, or in conflict with, federal  law, or the California Constitution. 
+
+SEC. 13.  Effective Date. 
+
+This Act shall only apply to personal information collected or sold by a business on or after 6 
+
+months from the effective date. 
+
+
+17 
+
+
+
