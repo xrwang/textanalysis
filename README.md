@@ -82,8 +82,8 @@ The second matrix, H, gives us the weighting of documents by Topics, so the weig
 
 Here are images from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.4867&rep=rep1&type=pdf: with concrete words:
 
-![img](Screen Shot 2017-10-10 at 11.54.56 AM.png)
+![img](https://github.com/xrwang/textanalysis/blob/master/Screen%20Shot%202017-10-10%20at%2011.54.56%20AM.png)
 decomposes down to:
-![img](Screen Shot 2017-10-10 at 11.55.02 AM.png)
+![img](https://github.com/xrwang/textanalysis/blob/master/Screen%20Shot%202017-10-10%20at%2011.55.02%20AM.png)
 
 note that there are theoretically multiple solutions to factorizing a matrix, right? http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.4867&rep=rep1&type=pdf has good examples of how we might decide what the best k value (number of topics to choose) should be !
