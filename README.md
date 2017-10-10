@@ -57,6 +57,14 @@ So in NMF we want to find
 
 A = W x H
 
+(a rough example of the above matrix is like:
+
+```
+[[ 6,2,4],    [[2],     [[3],
+[ 9,3,6 ]] =  [3]]  x   [2],
+                        [1]]  
+```
+
 where W is a matrix of n x k
 and H is a matrix of k x m
 and k is less than the rank of matrix A (less than n and m).
@@ -65,3 +73,17 @@ The matrices W and H are smaller in size than the original matrix.
 It's called non-negative because the resulting matrices are all positive.
 
 In our example, k is concretely the number of topics!
+
+3. So we can call NMF on our DTM, and decompose it into two smaller matrices. What it gives us are two matrices.
+
+One matrix is the `Topics` matrix, W. W gives us the clusters or words per topic.
+
+The second matrix, H, gives us the weighting of documents by Topics, so the weight of topics per document.
+
+Here are images from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.4867&rep=rep1&type=pdf: with concrete words:
+
+![img](Screen Shot 2017-10-10 at 11.54.56 AM.png)
+decomposes down to:
+![img](Screen Shot 2017-10-10 at 11.55.02 AM.png)
+
+note that there are theoretically multiple solutions to factorizing a matrix, right? http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.4867&rep=rep1&type=pdf has good examples of how we might decide what the best k value (number of topics to choose) should be !

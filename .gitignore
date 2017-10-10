@@ -1,5 +1,5 @@
 .gitignore
 *.DS_Store
-data/justice/pdfs/*
+data/justice/*
 *.ipynb_checkpoints
 .ipynb_checkpoints
