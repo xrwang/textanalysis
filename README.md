@@ -8,6 +8,7 @@ NMF on california DOJ ballots for the past 2 years
 
 NMF is "straightforwardly" Non-negative matrix factorization. I'll use text analysis / topic modeling as an example to break down the steps:
 
+
 1. We make a document term matrix. A document term matrix (DTM) represents words and their occurrence in documents in a matrix format. ie
 
 Document 1: ball rim google john
