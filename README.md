@@ -4,6 +4,8 @@ NMF on california DOJ ballots for the past 2 years
 
 :ear:
 
+Much of this material and libraries from fastai's amazing numerical linear algebra course https://github.com/fastai/numerical-linear-algebra
+
 ### What is NMF?
 
 NMF is "straightforwardly" Non-negative matrix factorization. I'll use text analysis / topic modeling as an example to break down the steps:
