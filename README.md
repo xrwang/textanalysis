@@ -1,10 +1,14 @@
 # textanalysis
 
+
 NMF on california DOJ ballots for the past 2 years
 
 :ear:
 
 Much of this material and libraries from fastai's amazing numerical linear algebra course https://github.com/fastai/numerical-linear-algebra
+
+
+Explainer by me:
 
 ### What is NMF?
 
